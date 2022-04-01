@@ -50,9 +50,8 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Leo and I'm a looking to move in the tech space. I have extenseive pxerience in goverment administration and have worked on administrating systems. I also have experience making software and web apps. I have worked for several companies, gaining teamwork and leadership skills.
 
-  #I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
-
 #content:
+  #I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
  # - title: Projects # Title for the section
   #  layout: list # Type of content section (list/text)
    # content:
