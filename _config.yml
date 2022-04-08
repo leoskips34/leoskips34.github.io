@@ -19,7 +19,7 @@ darkmode: true
 github_username:  leoskips34
 # stackoverflow_username: ""
 # dribbble_username:
-# facebook_username:
+facebook_username: leo.samuelson/
 # flickr_username:
 # instagram_username:
 linkedin_username: in/leo-samuelson-026987107/
@@ -48,10 +48,9 @@ youtube_username: leoskips34
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Leo and I'm a looking to move in the tech space. I have extenseive pxerience in goverment administration and have worked on administrating systems. I also have experience making software and web apps. I have worked for several companies, gaining teamwork and leadership skills.
-
+  Hi, my name is Leo and I'm a looking to move in the tech space. I have extenseive pxerience in goverment administration and have worked on administrating many programs, both technical and administrative in nature.
 #content:
-  #I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  #I am most skilled in: <mark>managing</mark> and <mark>Eating Pizza</mark>
  # - title: Projects # Title for the section
   #  layout: list # Type of content section (list/text)
    # content:
